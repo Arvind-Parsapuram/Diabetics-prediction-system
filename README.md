@@ -1,0 +1,2 @@
+# Diabetics-prediction-system
+An interactive Diabetes Prediction System built with Streamlit, Random Forest, and XGBoost-based data imputation. It analyzes patient health parameters to predict diabetes risk, providing real-time insights through an intuitive web interface.
