@@ -239,7 +239,7 @@ This project demonstrates practical implementation of:
 
 ## 👨‍💻 Author
 
-**P. Parsapuram**
+**P. Arvind**
 
 **B.Tech - Computer Science and Engineering (Data Science)**
 
